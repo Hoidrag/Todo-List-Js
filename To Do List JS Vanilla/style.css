@@ -140,6 +140,10 @@ select{
     color: #ff6f47;
 }
 
+.filter-todo {
+    font-family: Poppins;
+}
+
 .filter-todo option {
     font-family: Poppins;
 }
